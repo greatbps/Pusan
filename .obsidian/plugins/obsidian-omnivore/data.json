@@ -1,0 +1,32 @@
+{
+  "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
+  "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
+  "apiKey": "f588f4d8-15c5-453f-96ea-f9f12b2ed5cd",
+  "filter": "ARCHIVED",
+  "syncAt": "2024-12-01T08:46:06",
+  "customQuery": "in:archive",
+  "template": "# {{{title}}}\n#Omnivore\n \n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n \n{{{ content }}}",
+  "highlightOrder": "LOCATION",
+  "syncing": false,
+  "folder": "Scrap by Omnivore",
+  "folderDateFormat": "yyyy-MM-dd",
+  "endpoint": "https://api-prod.omnivore.app/api/graphql",
+  "filename": "{{{title}}}",
+  "filenameDateFormat": "yyMMdd",
+  "attachmentFolder": "Omnivore/attachments",
+  "version": "1.10.4",
+  "isSingleFile": false,
+  "frequency": 0,
+  "intervalId": 0,
+  "frontMatterVariables": [],
+  "frontMatterTemplate": "",
+  "syncOnStart": true,
+  "enableHighlightColorRender": false,
+  "highlightManagerId": "omni",
+  "highlightColorMapping": {
+    "yellow": "#fff3a3",
+    "red": "#ff5582",
+    "blue": "#adccff",
+    "green": "#bbfabb"
+  }
+}
