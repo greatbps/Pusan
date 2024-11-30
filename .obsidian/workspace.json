@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb2d7f842dbb5a1e",
+        "id": "c9922ac15d6f1545",
         "type": "tabs",
         "children": [
           {
-            "id": "d7696b19a35f32bf",
+            "id": "53ca229aa9a609dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "현황분석.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "현황분석"
             }
           }
         ]
@@ -162,9 +166,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "d7696b19a35f32bf",
-  "lastOpenFiles": []
+  "active": "53ca229aa9a609dc",
+  "lastOpenFiles": [
+    "현황분석.md",
+    "문화 스포츠 이벤트 기대 효과.md",
+    "Scrap by Omnivore/수원주차포탈.md",
+    "Scrap by Omnivore/부산광역시_공영주차장 정보 조회 - 공공데이터포털.md",
+    "Scrap by Omnivore/부산시설공단 통합주차포털.md",
+    "Scrap by Omnivore/'공영주차장 통합주차정보 시스템' 수원시 최우수 행정사례 선정.md",
+    "Scrap by Omnivore"
+  ]
 }
