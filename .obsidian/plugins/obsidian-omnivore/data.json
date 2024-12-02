@@ -1,19 +1,11 @@
 {
   "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
   "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
-<<<<<<< HEAD
-  "apiKey": "f588f4d8-15c5-453f-96ea-f9f12b2ed5cd",
-  "filter": "ARCHIVED",
-  "syncAt": "2024-12-02T10:46:01",
-  "customQuery": "in:archive",
-  "template": "# {{{title}}}\n#Omnivore\n \n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n \n{{{ content }}}",
-=======
   "apiKey": "",
   "filter": "ALL",
   "syncAt": "",
   "customQuery": "in:all",
   "template": "# {{{title}}}\n#Omnivore\n\n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}} [⤴️]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}} ^{{{highlightID}}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}",
->>>>>>> origin/main
   "highlightOrder": "LOCATION",
   "syncing": false,
   "folder": "Omnivore/{{{date}}}",
