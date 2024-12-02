@@ -136,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "FP/공연 및 스포츠 이벤트 예매_결제.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 공연 및 스포츠 이벤트 예매_결제"
             }
           },
           {
@@ -170,7 +172,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "ff494653b97895b4",
+  "active": "06efb77dd86826c7",
   "lastOpenFiles": [
     "공영 주차장 연계 예약 및 결제 서비스.md",
     "FP/공영 주차장 연계 예약 및 결제 서비스.md",
