@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9922ac15d6f1545",
+        "id": "352ba5067b4a5f51",
         "type": "tabs",
         "children": [
           {
-            "id": "53ca229aa9a609dc",
+            "id": "0a425a00d97e1885",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "과제.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "과제"
             }
           }
         ]
@@ -169,7 +170,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "53ca229aa9a609dc",
+  "active": "0a425a00d97e1885",
   "lastOpenFiles": [
     "과제.md",
     "현황분석.md",
