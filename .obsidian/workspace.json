@@ -11,10 +11,14 @@
             "id": "ff494653b97895b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "공유 모빌리티 예약 및 결제 과제.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "공유 모빌리티 예약 및 결제 과제"
             }
           }
         ]
@@ -166,7 +170,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "06efb77dd86826c7",
+  "active": "ff494653b97895b4",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "과제.md",
