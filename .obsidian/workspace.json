@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공영 주차장 연계 예약 및 결제 서비스.md",
+                "file": "FP/공영 주차장 연계 예약 및 결제 서비스.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,8 +172,9 @@
   },
   "active": "95a81b7a06b3bae2",
   "lastOpenFiles": [
+    "FP",
     "기대효과.md",
-    "공영 주차장 연계 예약 및 결제 서비스.md",
+    "FP/공영 주차장 연계 예약 및 결제 서비스.md",
     "공유 모빌리티 예약 및 결제 과제.md",
     "conflict-files-obsidian-git.md",
     "과제.md",
