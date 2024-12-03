@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b7e6b9c4bc007298",
+        "id": "9491bf6336aaa1ec",
         "type": "tabs",
         "children": [
           {
-            "id": "ff494653b97895b4",
+            "id": "a709a6da6396ac75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FP/공영 주차장 연계 예약 및 결제 서비스.md",
+                "file": "주차장 단위기능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공영 주차장 연계 예약 및 결제 서비스"
-            }
-          },
-          {
-            "id": "a2368f39e7b2afde",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "FP/공영 주차장 연계 예약 및 결제 서비스.md",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (공영 주차장 연계 예약 및 결제 서비스)"
+              "title": "주차장 단위기능"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FP/공연 및 스포츠 이벤트 예매_결제.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 공연 및 스포츠 이벤트 예매_결제"
+              "title": "Outline"
             }
           },
           {
@@ -186,25 +170,24 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "a2368f39e7b2afde",
+  "active": "a709a6da6396ac75",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "FP/공영 주차장 연계 예약 및 결제 서비스.md",
-    "주차장 단위기능.md",
     "단위기능 설명.md",
-    "Scrap by Omnivore/'공영주차장 통합주차정보 시스템' 수원시 최우수 행정사례 선정.md",
-    "FP/공유 모빌리티.md",
+    "주차장 단위기능.md",
+    "FP/공영 주차장 연계 예약 및 결제 서비스.md",
+    "conflict-files-obsidian-git.md",
     "공영주차장연계예약 및 결제 서비스.xlsx",
-    "~$공유모빌리티 1.xlsx",
+    "FP/공유 모빌리티.md",
+    "FP/~$공유모빌리티FP.xlsx",
+    "FP/공연 및 스포츠 이벤트 예매_결제.md",
     "~$공유모빌리티.xlsx",
+    "공유모빌리티.xlsx",
     "공유모빌리티 2.xlsx",
     "공유모빌리티 1.xlsx",
-    "공유모빌리티.xlsx",
     "FP/공유모빌리티FP.xlsx",
-    "FP/공유모빌리티.xlsx",
-    "FP/공연 및 스포츠 이벤트 예매_결제.md",
-    "공영 주차장 연계 예약 및 결제 서비스.md",
-    "FP",
+    "FP/694BB410",
+    "FP/~$공연정보FP.xlsx",
+    "FP/공연정보FP.xlsx",
     "기대효과.md",
     "공유 모빌리티 예약 및 결제 과제.md",
     "과제.md",
@@ -213,6 +196,6 @@
     "Scrap by Omnivore/수원주차포탈.md",
     "Scrap by Omnivore/부산광역시_공영주차장 정보 조회 - 공공데이터포털.md",
     "Scrap by Omnivore/부산시설공단 통합주차포털.md",
-    "Scrap by Omnivore"
+    "Scrap by Omnivore/'공영주차장 통합주차정보 시스템' 수원시 최우수 행정사례 선정.md"
   ]
 }
