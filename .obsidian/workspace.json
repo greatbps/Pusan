@@ -11,10 +11,14 @@
             "id": "2451def46c174df5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -170,9 +174,11 @@
   },
   "active": "2451def46c174df5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "단위기능 엑셀.md",
+    "공영주차장연계예약 및 결제 서비스 1.xlsx",
     "주차장 단위기능.md",
     "FP/공영 주차장 연계 예약 및 결제 서비스.md",
-    "conflict-files-obsidian-git.md",
     "단위기능 설명.md",
     "Scrap by Omnivore/'공영주차장 통합주차정보 시스템' 수원시 최우수 행정사례 선정.md",
     "FP/공유 모빌리티.md",
@@ -194,7 +200,6 @@
     "문화 스포츠 이벤트 기대 효과.md",
     "Scrap by Omnivore/수원주차포탈.md",
     "Scrap by Omnivore/부산광역시_공영주차장 정보 조회 - 공공데이터포털.md",
-    "Scrap by Omnivore/부산시설공단 통합주차포털.md",
-    "Scrap by Omnivore"
+    "Scrap by Omnivore/부산시설공단 통합주차포털.md"
   ]
 }
