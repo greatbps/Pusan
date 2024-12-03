@@ -11,10 +11,14 @@
             "id": "2b16b1e232ee4779",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FP/공유 모빌리티.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "공유 모빌리티"
             }
           }
         ]
@@ -168,6 +172,7 @@
   },
   "active": "2b16b1e232ee4779",
   "lastOpenFiles": [
+    "FP/~$공유모빌리티FP.xlsx",
     "FP/공영 주차장 연계 예약 및 결제 서비스.md",
     "FP/공유 모빌리티.md",
     "conflict-files-obsidian-git.md",
