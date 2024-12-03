@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7e6b9c4bc007298",
+        "id": "0eef0433fa095cef",
         "type": "tabs",
         "children": [
           {
-            "id": "ff494653b97895b4",
+            "id": "2451def46c174df5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "주차장 단위기능.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "주차장 단위기능"
+              "title": "New tab"
             }
           }
         ]
@@ -172,11 +168,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "ff494653b97895b4",
+  "active": "2451def46c174df5",
   "lastOpenFiles": [
+    "주차장 단위기능.md",
     "FP/공영 주차장 연계 예약 및 결제 서비스.md",
     "conflict-files-obsidian-git.md",
-    "주차장 단위기능.md",
     "단위기능 설명.md",
     "Scrap by Omnivore/'공영주차장 통합주차정보 시스템' 수원시 최우수 행정사례 선정.md",
     "FP/공유 모빌리티.md",
