@@ -13,29 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FP/공영 주차장 연계 예약 및 결제 서비스.md",
+                "file": "주차장 단위기능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공영 주차장 연계 예약 및 결제 서비스"
-            }
-          },
-          {
-            "id": "a2368f39e7b2afde",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "FP/공영 주차장 연계 예약 및 결제 서비스.md",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (공영 주차장 연계 예약 및 결제 서비스)"
+              "title": "주차장 단위기능"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +172,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "a2368f39e7b2afde",
+  "active": "ff494653b97895b4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "FP/공영 주차장 연계 예약 및 결제 서비스.md",
+    "conflict-files-obsidian-git.md",
     "주차장 단위기능.md",
     "단위기능 설명.md",
     "Scrap by Omnivore/'공영주차장 통합주차정보 시스템' 수원시 최우수 행정사례 선정.md",
