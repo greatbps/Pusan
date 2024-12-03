@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공유 모빌리티.md",
+                "file": "FP/공유 모빌리티.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,10 +199,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "8ca54a198354b397",
+  "active": "95a81b7a06b3bae2",
   "lastOpenFiles": [
     "FP/공영 주차장 연계 예약 및 결제 서비스.md",
-    "공유 모빌리티.md",
+    "FP/공유 모빌리티.md",
     "FP/공연 및 스포츠 이벤트 예매_결제.md",
     "FP/694BB410",
     "FP/~$공연정보FP.xlsx",
