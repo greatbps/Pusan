@@ -11,10 +11,14 @@
             "id": "a50259a076edfdc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -168,11 +172,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "06efb77dd86826c7",
+  "active": "a50259a076edfdc0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "데이터 설명.md",
     "1.png",
-    "conflict-files-obsidian-git.md",
     "주차장 정보 데이터.md",
     "~$~$공영주차장연계예약 및 결제 서비스 1.xlsx",
     "단위기능 엑셀.md",
