@@ -11,10 +11,14 @@
             "id": "a709a6da6396ac75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "주차장 단위기능.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "주차장 단위기능"
             }
           }
         ]
@@ -168,6 +172,7 @@
   },
   "active": "a709a6da6396ac75",
   "lastOpenFiles": [
+    "주차장 단위기능.md",
     "FP/공영 주차장 연계 예약 및 결제 서비스.md",
     "conflict-files-obsidian-git.md",
     "공영주차장연계예약 및 결제 서비스.xlsx",
