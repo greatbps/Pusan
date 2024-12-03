@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 설명.md",
+                "file": "제안 작업 시 응용 총괄 역할.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데이터 설명"
+              "title": "제안 작업 시 응용 총괄 역할"
             }
           }
         ]
@@ -170,14 +170,15 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "db999710fc849f3a",
+  "active": "95a81b7a06b3bae2",
   "lastOpenFiles": [
+    "공공 시스템",
+    "데이터 설명.md",
     "제안 작업 시 응용 총괄 역할.md",
     "주차장 단위기능.md",
     "주차장 정보 데이터.md",
     "현황분석.md",
     "1.png",
-    "데이터 설명.md",
     "단위기능 엑셀.md",
     "공영주차장연계예약 및 결제 서비스 1.xlsx",
     "단위기능 설명.md",
