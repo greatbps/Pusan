@@ -11,10 +11,14 @@
             "id": "fa4d1148cb1b5d1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "응용 아키텍처 설계"
             }
           }
         ]
@@ -168,7 +172,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "06efb77dd86826c7",
+  "active": "fa4d1148cb1b5d1b",
   "lastOpenFiles": [
     "1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
     "conflict-files-obsidian-git.md",
