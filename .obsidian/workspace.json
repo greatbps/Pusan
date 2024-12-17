@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2443ef9e2f155467",
+        "id": "6b94af85b5bef8b0",
         "type": "tabs",
         "children": [
           {
-            "id": "b0594d6f5f49237e",
+            "id": "f9db081e226ae6f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기대효과 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "기대효과 2"
+              "title": "새 탭"
             }
           }
         ]
