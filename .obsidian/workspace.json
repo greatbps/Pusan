@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f644cd42f33854a",
+        "id": "04272924ba1a46d5",
         "type": "tabs",
         "children": [
           {
-            "id": "6a7cd51417c3295a",
+            "id": "155b82f6749047be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "새 탭"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "conflict-files-obsidian-git의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "conflict-files-obsidian-git의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -174,7 +168,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "6a7cd51417c3295a",
+  "active": "9d569c5ad6a5775d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md"
   ]
