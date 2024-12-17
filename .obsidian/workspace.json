@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b94af85b5bef8b0",
+        "id": "2640ddda24d35e9e",
         "type": "tabs",
         "children": [
           {
-            "id": "f9db081e226ae6f3",
+            "id": "e2e749b54838ff9a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,10 +168,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "06efb77dd86826c7",
+  "active": "e2e749b54838ff9a",
   "lastOpenFiles": [
-    "기대효과 2.md",
     "conflict-files-obsidian-git.md",
+    "기대효과 2.md",
     "기대효과 수정.md",
     "기대효과.md",
     "1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
