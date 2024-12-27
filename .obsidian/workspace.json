@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "04272924ba1a46d5",
+        "id": "f2f03c893ccfd87c",
         "type": "tabs",
         "children": [
           {
-            "id": "155b82f6749047be",
+            "id": "a564ac64d1b3b35c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. 제안서 작성 참고자료/주차장 정보 데이터.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "주차장 정보 데이터"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. 제안서 작성 참고자료/주차장 정보 데이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "주차장 정보 데이터의 백링크"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. 제안서 작성 참고자료/주차장 정보 데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "주차장 정보 데이터의 나가는 링크"
             }
           },
           {
@@ -133,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "0. 제안서 작성 참고자료/주차장 정보 데이터.md"
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 개요"
+              "title": "주차장 정보 데이터 개요"
             }
           },
           {
@@ -168,8 +174,9 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9d569c5ad6a5775d",
+  "active": "a564ac64d1b3b35c",
   "lastOpenFiles": [
+    "1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
     "conflict-files-obsidian-git.md"
   ]
 }
