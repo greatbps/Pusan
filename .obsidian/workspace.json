@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "금융권 사업모델"
             }
+          },
+          {
+            "id": "3ef3d8e20db4a0a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI 챗봇 꿀단지.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI 챗봇 꿀단지"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,10 +201,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9807d07f8a17d2c0",
+  "active": "3ef3d8e20db4a0a5",
   "lastOpenFiles": [
-    "부가서비스.md",
     "금융권 사업모델.md",
+    "AI 챗봇 꿀단지.md",
+    "부가서비스.md",
     "conflict-files-obsidian-git.md",
     "기대효과 2.md",
     "기대효과 수정.md",
@@ -224,7 +239,6 @@
     "과제.md",
     "0. 제안서 작성 참고자료/현황분석.md",
     "0. 제안서 작성 참고자료/문화 스포츠 이벤트 기대 효과.md",
-    "Scrap by Omnivore/수원주차포탈.md",
-    "Scrap by Omnivore/부산광역시_공영주차장 정보 조회 - 공공데이터포털.md"
+    "Scrap by Omnivore/수원주차포탈.md"
   ]
 }
