@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6c507af148bbf06a",
+    "id": "292d61c660f77116",
     "type": "split",
     "children": [
       {
-        "id": "2640ddda24d35e9e",
+        "id": "f2f03c893ccfd87c",
         "type": "tabs",
         "children": [
           {
-            "id": "e2e749b54838ff9a",
+            "id": "a564ac64d1b3b35c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bc12a5d17e211be6",
+    "id": "4dd10addd17a5e9b",
     "type": "split",
     "children": [
       {
-        "id": "05064259ed8a074f",
+        "id": "6b437889ed0fdd3d",
         "type": "tabs",
         "children": [
           {
-            "id": "95a81b7a06b3bae2",
+            "id": "37d1a63f9f3fc179",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "4fd1617d7d2eb456",
+            "id": "27b4c92124bda587",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,11 +60,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
-            "id": "f2004e69f480fefe",
+            "id": "6e3cf41817e092f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,22 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5055274963379
+    "width": 300
   },
   "right": {
-    "id": "f80d5119fca4eb95",
+    "id": "11d96b444f32b8a2",
     "type": "split",
     "children": [
       {
-        "id": "be55b52a3fcb219b",
+        "id": "5378967865c7ab83",
         "type": "tabs",
         "children": [
           {
-            "id": "141fb41103c537f8",
+            "id": "9b1c83d79ecaace2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. 제안서 작성 참고자료/주차장 정보 데이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "주차장 정보 데이터의 백링크"
             }
           },
           {
-            "id": "8e2f11f3ad6f4f9f",
+            "id": "c8d2d41ba3eea500",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. 제안서 작성 참고자료/주차장 정보 데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "주차장 정보 데이터의 나가는 링크"
             }
           },
           {
-            "id": "d705abf67189fda9",
+            "id": "2e8e6c9408770de2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,19 +134,19 @@
             }
           },
           {
-            "id": "96f0c61b028cda0e",
+            "id": "fcfecf9124cd7042",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "FP/공연 및 스포츠 이벤트 예매_결제.md"
+                "file": "0. 제안서 작성 참고자료/주차장 정보 데이터.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 공연 및 스포츠 이벤트 예매_결제"
+              "title": "주차장 정보 데이터 개요"
             }
           },
           {
-            "id": "06efb77dd86826c7",
+            "id": "9d569c5ad6a5775d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,44 +174,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "e2e749b54838ff9a",
+  "active": "a564ac64d1b3b35c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "부가서비스.md",
-    "기대효과 2.md",
-    "기대효과 수정.md",
-    "기대효과.md",
-    "1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
-    "아키텍처 작성 자료.md",
     "0. 제안서 작성 참고자료/주차장 정보 데이터.md",
-    "0. 제안서 작성 참고자료/기대효과.md",
-    "0. 제안서 작성 참고자료/공유 모빌리티 예약 및 결제 과제.md",
-    "0. 제안서 작성 참고자료",
-    "attatchment",
-    "1. 응용 아키텍처 설계/제안 작업 시 응용 총괄 역할.md",
-    "1. 응용 아키텍처 설계",
-    "0. 제안서 작성 참고자료/데이터 설명.md",
-    "attatchment/1.png",
-    "~$~$공영주차장연계예약 및 결제 서비스 1.xlsx",
-    "0. 제안서 작성 참고자료/단위기능 엑셀.md",
-    "~$공영주차장연계예약 및 결제 서비스 1.xlsx",
-    "42E58000",
-    "공영주차장연계예약 및 결제 서비스 1.xlsx",
-    "0. 제안서 작성 참고자료/주차장 단위기능.md",
-    "0. 제안서 작성 참고자료/FP/공영 주차장 연계 예약 및 결제 서비스.md",
-    "0. 제안서 작성 참고자료/단위기능 설명.md",
-    "Scrap by Omnivore/'공영주차장 통합주차정보 시스템' 수원시 최우수 행정사례 선정.md",
-    "0. 제안서 작성 참고자료/FP/공유 모빌리티.md",
-    "공영주차장연계예약 및 결제 서비스.xlsx",
-    "~$공유모빌리티 1.xlsx",
-    "~$공유모빌리티.xlsx",
-    "0. 제안서 작성 참고자료/FP/공연 및 스포츠 이벤트 예매_결제.md",
-    "공영 주차장 연계 예약 및 결제 서비스.md",
-    "과제.md",
-    "0. 제안서 작성 참고자료/현황분석.md",
-    "0. 제안서 작성 참고자료/문화 스포츠 이벤트 기대 효과.md",
-    "Scrap by Omnivore/수원주차포탈.md",
-    "Scrap by Omnivore/부산광역시_공영주차장 정보 조회 - 공공데이터포털.md",
-    "Scrap by Omnivore/부산시설공단 통합주차포털.md"
+    "부가서비스.md",
+    "1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
