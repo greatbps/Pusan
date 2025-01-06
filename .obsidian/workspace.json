@@ -11,14 +11,10 @@
             "id": "7d7783e621e2d145",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "동백패스, 중층구조, K-Pass 연계.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "동백패스, 중층구조, K-Pass 연계"
+              "title": "새 탭"
             }
           }
         ]
@@ -174,7 +170,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "7d7783e621e2d145",
+  "active": "9d569c5ad6a5775d",
   "lastOpenFiles": [
     "동백패스, 중층구조, K-Pass 연계.md",
     "conflict-files-obsidian-git.md",
