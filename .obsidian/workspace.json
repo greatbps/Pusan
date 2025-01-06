@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f03c893ccfd87c",
+        "id": "69a335bdedb6ccb3",
         "type": "tabs",
         "children": [
           {
-            "id": "a564ac64d1b3b35c",
+            "id": "7d7783e621e2d145",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "6c704da5a2d30ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +170,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "6c704da5a2d30ac4",
+  "active": "9d569c5ad6a5775d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "AI 챗봇 꿀단지.md",
