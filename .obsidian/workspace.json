@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Perplexity"
             }
-          },
-          {
-            "id": "67b4a010eaac5ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +203,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "67b4a010eaac5ed4",
+  "active": "9d569c5ad6a5775d",
   "lastOpenFiles": [
     "1. 제안요청서 작성/Perplexity.md",
     "conflict-files-obsidian-git.md",
