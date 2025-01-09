@@ -49,8 +49,7 @@
               "title": "Perplexity"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,11 +202,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9d569c5ad6a5775d",
+  "active": "dd93b17cfdf2c38c",
   "lastOpenFiles": [
-    "1. 제안요청서 작성/Perplexity.md",
-    "conflict-files-obsidian-git.md",
     "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
+    "conflict-files-obsidian-git.md",
+    "1. 제안요청서 작성/Perplexity.md",
     "1. 제안요청서 작성/01-09.md",
     "AI 챗봇 꿀단지.md",
     "1. 제안요청서 작성",
