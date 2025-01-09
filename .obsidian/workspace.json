@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69a335bdedb6ccb3",
+        "id": "56a610283007ac9b",
         "type": "tabs",
         "children": [
           {
-            "id": "7d7783e621e2d145",
+            "id": "02d1275a9964109c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 제안서/공공시설예약, 결제.md",
+                "file": "1. 제안요청서 작성/01-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공공시설예약, 결제"
+              "title": "01-09"
             }
           }
         ]
@@ -174,10 +174,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "37d1a63f9f3fc179",
+  "active": "02d1275a9964109c",
   "lastOpenFiles": [
-    "1. 제안요청서 작성",
+    "1. 제안요청서 작성/01-09.md",
     "0. 제안서/공공시설예약, 결제.md",
+    "1. 제안요청서 작성",
     "0. 제안서/동백패스, 중층구조, K-Pass 연계.md",
     "conflict-files-obsidian-git.md",
     "0. 제안서/AI 챗봇 꿀단지.md",
