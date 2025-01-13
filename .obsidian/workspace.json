@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4f6c29aee9fe3fe",
+        "id": "56a610283007ac9b",
         "type": "tabs",
         "children": [
           {
-            "id": "dd93b17cfdf2c38c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 제안요청서 작성/01-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-09"
-            }
-          },
-          {
-            "id": "2557689634ece9dd",
+            "id": "02d1275a9964109c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "부산 공공시설 예약 기관"
             }
-          },
-          {
-            "id": "8feed0ce8ffbcb1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 제안요청서 작성/Perplexity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perplexity"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,35 +174,19 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9d569c5ad6a5775d",
+  "active": "02d1275a9964109c",
   "lastOpenFiles": [
     "1. 제안요청서 작성/Perplexity.md",
-    "conflict-files-obsidian-git.md",
-    "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
     "1. 제안요청서 작성/01-09.md",
-    "AI 챗봇 꿀단지.md",
-    "1. 제안요청서 작성",
-    "0. 제안서/주차장 정보 데이터.md",
-    "0. 제안서/아키텍처 작성 자료.md",
-    "0. 제안서/부가서비스.md",
-    "0. 제안서/동백패스, 중층구조, K-Pass 연계.md",
-    "0. 제안서/기대효과.md",
-    "0. 제안서/기대효과 수정.md",
-    "0. 제안서/기대효과 2.md",
-    "0. 제안서/금융권 사업모델.md",
+    "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
     "0. 제안서/공공시설예약, 결제.md",
+    "1. 제안요청서 작성",
+    "0. 제안서/동백패스, 중층구조, K-Pass 연계.md",
+    "conflict-files-obsidian-git.md",
     "0. 제안서/AI 챗봇 꿀단지.md",
-    "0. 제안서/1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
-    "0. 제안서/1. 응용 아키텍처 설계",
-    "0. 제안서",
-    "부가서비스.md",
-    "동백패스, 중층구조, K-Pass 연계.md",
-    "기대효과 수정.md",
-    "기대효과 2.md",
-    "기대효과.md",
-    "금융권 사업모델.md",
-    "공공시설예약, 결제.md",
-    "0. 제안서 작성 참고자료/주차장 정보 데이터.md",
-    "1. 응용 아키텍처 설계/응용 아키텍처 설계.md"
+    "0. 제안서/부가서비스.md",
+    "0. 제안서/금융권 사업모델.md",
+    "0. 제안서/주차장 정보 데이터.md",
+    "0. 제안서/1. 응용 아키텍처 설계/응용 아키텍처 설계.md"
   ]
 }
