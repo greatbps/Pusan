@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2a026b57cb04a6e",
+        "id": "f2f03c893ccfd87c",
         "type": "tabs",
         "children": [
           {
-            "id": "6db4ab69f796e6a1",
+            "id": "a564ac64d1b3b35c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 제안요청서 작성/01-13.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01-13"
+              "title": "새 탭"
             }
           }
         ]
@@ -160,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,20 +170,28 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "6db4ab69f796e6a1",
+  "active": "9d569c5ad6a5775d",
   "lastOpenFiles": [
+    "0. 제안서 작성 참고자료/주차장 정보 데이터.md",
+    "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
     "1. 제안요청서 작성/Perplexity.md",
     "1. 제안요청서 작성/01-13.md",
-    "conflict-files-obsidian-git.md",
-    "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
     "1. 제안요청서 작성/01-09.md",
-    "0. 제안서/공공시설예약, 결제.md",
     "1. 제안요청서 작성",
-    "0. 제안서/동백패스, 중층구조, K-Pass 연계.md",
-    "0. 제안서/AI 챗봇 꿀단지.md",
-    "0. 제안서/부가서비스.md",
-    "0. 제안서/금융권 사업모델.md",
+    "0. 제안서/1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
     "0. 제안서/주차장 정보 데이터.md",
-    "0. 제안서/1. 응용 아키텍처 설계/응용 아키텍처 설계.md"
+    "0. 제안서/동백패스, 중층구조, K-Pass 연계.md",
+    "0. 제안서/아키텍처 작성 자료.md",
+    "0. 제안서/부가서비스.md",
+    "0. 제안서/기대효과.md",
+    "0. 제안서/기대효과 2.md",
+    "0. 제안서/기대효과 수정.md",
+    "0. 제안서/금융권 사업모델.md",
+    "0. 제안서/공공시설예약, 결제.md",
+    "0. 제안서/AI 챗봇 꿀단지.md",
+    "0. 제안서/1. 응용 아키텍처 설계",
+    "0. 제안서",
+    "1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
