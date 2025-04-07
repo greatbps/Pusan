@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e9a02d1dcd87ded",
+        "id": "e210aa2b7e004f85",
         "type": "tabs",
         "children": [
           {
-            "id": "9ac1c4361181bc74",
+            "id": "5dcaeeee6dbe51aa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -171,8 +171,9 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "37d1a63f9f3fc179",
+  "active": "9d569c5ad6a5775d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "★범정부 생성형 AI",
     "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
     "1. 제안요청서 작성/무제.md",
@@ -183,7 +184,6 @@
     "1. 제안요청서 작성/01-13.md",
     "1. 제안요청서 작성/15분도시 생활.md",
     "1. 제안요청서 작성/01-14.md",
-    "conflict-files-obsidian-git.md",
     "1. 제안요청서 작성/01-09.md",
     "0. 제안서/공공시설예약, 결제.md",
     "1. 제안요청서 작성",
