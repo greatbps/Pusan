@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e2a026b57cb04a6e",
+        "id": "1e9a02d1dcd87ded",
         "type": "tabs",
         "children": [
           {
-            "id": "6db4ab69f796e6a1",
+            "id": "9ac1c4361181bc74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "부산 공공시설 예약 기관"
-            }
-          },
-          {
-            "id": "cada9f8a58294ee0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,10 +171,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "cada9f8a58294ee0",
+  "active": "37d1a63f9f3fc179",
   "lastOpenFiles": [
-    "1. 제안요청서 작성/Perplexity.md",
+    "★범정부 생성형 AI",
     "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
+    "1. 제안요청서 작성/무제.md",
+    "1. 제안요청서 작성/Perplexity.md",
     "1. 제안요청서 작성/01-22.md",
     "1. 제안요청서 작성/01-16.md",
     "1. 제안요청서 작성/01-15.md",
