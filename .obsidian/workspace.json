@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★범정부 생성형 AI/사용자 권한관리.md",
+                "file": "★범정부 생성형 AI/정산 관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "사용자 권한관리"
+              "title": "정산 관리"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "4d5f5bd83d2a8c9b",
   "lastOpenFiles": [
+    "★범정부 생성형 AI/사용자 권한관리.md",
     "conflict-files-obsidian-git.md",
     "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
     "★범정부 생성형 AI/정산 관리.md",
@@ -188,7 +189,6 @@
     "attatchment/Pasted image 20250414114627.png",
     "attatchment/Pasted image 20250414114601.png",
     "★범정부 생성형 AI/사용자 관리 시스템.md",
-    "★범정부 생성형 AI/사용자 권한관리.md",
     "★범정부 생성형 AI/플랫폼 관리 기능.md",
     "attatchment/platform-management-proposal.md",
     "attatchment/personalization-settings-svg.svg",
