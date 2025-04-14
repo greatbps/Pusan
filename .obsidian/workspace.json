@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4453ea20f77d83c",
+        "id": "e2a026b57cb04a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "48fcb2d0ad206a94",
+            "id": "4d5f5bd83d2a8c9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,15 +175,14 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "48fcb2d0ad206a94",
+  "active": "4d5f5bd83d2a8c9b",
   "lastOpenFiles": [
+    "attatchment/Pasted image 20250414163214.png",
     "attatchment/Pasted image 20250414154303.png",
     "attatchment/Pasted image 20250414154131.png",
     "★범정부 생성형 AI/사용자 권한관리.md",
-    "★범정부 생성형 AI/사용자 관리 시스템.md",
-    "★범정부 생성형 AI/플랫폼 관리 기능.md",
+    "conflict-files-obsidian-git.md",
     "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
-    "★범정부 생성형 AI/카탈로그.md",
     "★범정부 생성형 AI/정산 관리.md",
     "attatchment/Pasted image 20250414131159.png",
     "attatchment/Pasted image 20250414114815.png",
@@ -192,10 +191,11 @@
     "attatchment/Pasted image 20250414114652.png",
     "attatchment/Pasted image 20250414114627.png",
     "attatchment/Pasted image 20250414114601.png",
+    "★범정부 생성형 AI/사용자 관리 시스템.md",
+    "★범정부 생성형 AI/플랫폼 관리 기능.md",
     "attatchment/platform-management-proposal.md",
     "attatchment/personalization-settings-svg.svg",
-    "attatchment/login-process-flow-svg (1).svg",
-    "conflict-files-obsidian-git.md",
+    "★범정부 생성형 AI/카탈로그.md",
     "카탈로그.md",
     "★범정부 생성형 AI",
     "1. 제안요청서 작성/01-15.md",
