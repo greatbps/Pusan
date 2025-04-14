@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★범정부 생성형 AI/사용자 관리 시스템.md",
+                "file": "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "사용자 관리 시스템"
+              "title": "RAG 데이터 관리 기능"
             }
           }
         ],
@@ -190,11 +190,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9d569c5ad6a5775d",
+  "active": "fd4053a0fe64cc4c",
   "lastOpenFiles": [
+    "★범정부 생성형 AI/사용자 관리 시스템.md",
     "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
     "★범정부 생성형 AI/사용자 권한관리.md",
-    "★범정부 생성형 AI/사용자 관리 시스템.md",
     "★범정부 생성형 AI/플랫폼 관리 기능.md",
     "attatchment/platform-management-proposal.md",
     "attatchment/personalization-settings-svg.svg",
