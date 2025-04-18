@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "★범정부 생성형 AI/연계.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "연계"
+            }
+          },
+          {
+            "id": "eedda67b7ef32a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "★범정부 생성형 AI/전체 SW 구성도.md",
                 "mode": "source",
                 "source": false
@@ -34,9 +48,23 @@
               "icon": "lucide-file",
               "title": "전체 SW 구성도"
             }
+          },
+          {
+            "id": "2f5e6cbdf3e98f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "★범정부 생성형 AI/관리자 시스템 구성도.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "관리자 시스템 구성도"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,10 +218,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "164c12b7b75114d6",
+  "active": "2f5e6cbdf3e98f5a",
   "lastOpenFiles": [
-    "★범정부 생성형 AI/연계.md",
     "★범정부 생성형 AI/전체 SW 구성도.md",
+    "★범정부 생성형 AI/관리자 시스템 구성도.md",
     "attatchment/Pasted image 20250418084633.png",
     "attatchment/Pasted image 20250418084619.png",
     "attatchment/Pasted image 20250418084559.png",
@@ -204,6 +232,7 @@
     "attatchment/Pasted image 20250418084416.png",
     "attatchment/Pasted image 20250418084402.png",
     "attatchment/Pasted image 20250418084348.png",
+    "★범정부 생성형 AI/연계.md",
     "★범정부 생성형 AI/공통 대화형 프롬프트.md",
     "★범정부 생성형 AI/관리자 시스템 - AI 기능_서비스 모듈 관리 기능.md",
     "★범정부 생성형 AI/서비스 선택 기능.md",
@@ -228,7 +257,6 @@
     "1. 제안요청서 작성/01-14.md",
     "1. 제안요청서 작성/부산 공공시설 예약 기관.md",
     "1. 제안요청서 작성/01-09.md",
-    "0. 제안서/공공시설예약, 결제.md",
     "1. 제안요청서 작성"
   ]
 }
