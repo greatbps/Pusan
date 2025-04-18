@@ -27,34 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★범정부 생성형 AI/연계.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "연계"
-            }
-          },
-          {
-            "id": "eedda67b7ef32a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/전체 SW 구성도.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "전체 SW 구성도"
-            }
-          },
-          {
-            "id": "2f5e6cbdf3e98f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "★범정부 생성형 AI/관리자 시스템 구성도.md",
                 "mode": "source",
                 "source": false
@@ -62,37 +34,8 @@
               "icon": "lucide-file",
               "title": "관리자 시스템 구성도"
             }
-          },
-          {
-            "id": "41284573dbdd5641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/공통 대화형 프롬프트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "공통 대화형 프롬프트"
-            }
-          },
-          {
-            "id": "0001b295844d0c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/성능 Per-005.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "성능 Per-005"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,32 +189,32 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "0001b295844d0c1c",
+  "active": "77111d6d24880ca6",
   "lastOpenFiles": [
-    "★범정부 생성형 AI/공통 대화형 프롬프트.md",
     "★범정부 생성형 AI/성능 Per-005.md",
+    "★범정부 생성형 AI/관리자 시스템 구성도.md",
     "★범정부 생성형 AI/수정.md",
+    "★범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
+    "conflict-files-obsidian-git.md",
     "attatchment/Pasted image 20250418115944.png",
     "attatchment/Pasted image 20250418115600.png",
     "attatchment/Pasted image 20250418115137.png",
     "attatchment/Pasted image 20250418110508.png",
-    "★범정부 생성형 AI/관리자 시스템 구성도.md",
-    "conflict-files-obsidian-git.md",
-    "attatchment/Pasted image 20250418104136.png",
+    "★범정부 생성형 AI/사용자 관리 시스템.md",
+    "★범정부 생성형 AI/플랫폼 관리 기능.md",
     "★범정부 생성형 AI/전체 SW 구성도.md",
+    "attatchment/Pasted image 20250418104136.png",
+    "★범정부 생성형 AI/연계.md",
     "attatchment/Pasted image 20250418084633.png",
     "attatchment/Pasted image 20250418084619.png",
     "attatchment/Pasted image 20250418084559.png",
     "attatchment/Pasted image 20250418084521.png",
     "attatchment/Pasted image 20250418084505.png",
-    "★범정부 생성형 AI/연계.md",
+    "★범정부 생성형 AI/공통 대화형 프롬프트.md",
     "★범정부 생성형 AI/관리자 시스템 - AI 기능_서비스 모듈 관리 기능.md",
     "★범정부 생성형 AI/서비스 선택 기능.md",
-    "★범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
     "★범정부 생성형 AI/정산 관리.md",
     "★범정부 생성형 AI/사용자 권한관리.md",
-    "★범정부 생성형 AI/사용자 관리 시스템.md",
-    "★범정부 생성형 AI/플랫폼 관리 기능.md",
     "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
     "★범정부 생성형 AI/카탈로그.md",
     "attatchment/platform-management-proposal.md",
