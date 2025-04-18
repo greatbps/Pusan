@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★범정부 생성형 AI/수정.md",
+                "file": "★범정부 생성형 AI/관리자 시스템 구성도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수정"
+              "title": "관리자 시스템 구성도"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,15 +189,15 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "164c12b7b75114d6",
+  "active": "77111d6d24880ca6",
   "lastOpenFiles": [
+    "★범정부 생성형 AI/관리자 시스템 구성도.md",
+    "★범정부 생성형 AI/수정.md",
     "★범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
     "conflict-files-obsidian-git.md",
     "attatchment/Pasted image 20250418115944.png",
-    "★범정부 생성형 AI/수정.md",
     "attatchment/Pasted image 20250418115600.png",
     "attatchment/Pasted image 20250418115137.png",
-    "★범정부 생성형 AI/관리자 시스템 구성도.md",
     "attatchment/Pasted image 20250418110508.png",
     "★범정부 생성형 AI/사용자 관리 시스템.md",
     "★범정부 생성형 AI/플랫폼 관리 기능.md",
