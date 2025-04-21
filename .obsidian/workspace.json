@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★범정부 생성형 AI/수정.md",
+                "file": "★범정부 생성형 AI/플로우 수정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수정"
+              "title": "플로우 수정"
             }
           }
         ],
@@ -262,6 +262,7 @@
   },
   "active": "965c5f724f9cc4cd",
   "lastOpenFiles": [
+    "★범정부 생성형 AI/수정.md",
     "★범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
     "★범정부 생성형 AI/플로우 수정.md",
     "attatchment/Pasted image 20250421125457.png",
@@ -272,7 +273,6 @@
     "attatchment/Pasted image 20250418162048.png",
     "★범정부 생성형 AI/성능 Per-005.md",
     "★범정부 생성형 AI/공통 대화형 프롬프트.md",
-    "★범정부 생성형 AI/수정.md",
     "attatchment/Pasted image 20250418115944.png",
     "attatchment/Pasted image 20250418115600.png",
     "attatchment/Pasted image 20250418115137.png",
