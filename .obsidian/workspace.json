@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★범정부 생성형 AI/플로우 수정.md",
+                "file": "★범정부 생성형 AI/연계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "플로우 수정"
+              "title": "연계"
             }
           }
         ],
@@ -274,12 +274,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9d569c5ad6a5775d",
+  "active": "e30c1d5e87b88193",
   "lastOpenFiles": [
+    "★범정부 생성형 AI/플로우 수정.md",
     "attatchment/Pasted image 20250421154741.png",
     "attatchment/Pasted image 20250421125457.png",
     "★범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
-    "★범정부 생성형 AI/플로우 수정.md",
     "conflict-files-obsidian-git.md",
     "attatchment/Pasted image 20250418163738.png",
     "attatchment/Pasted image 20250418163108.png",
@@ -293,7 +293,6 @@
     "attatchment/Pasted image 20250418115137.png",
     "attatchment/Pasted image 20250418110508.png",
     "★범정부 생성형 AI/관리자 시스템 구성도.md",
-    "attatchment/Pasted image 20250418104136.png",
     "★범정부 생성형 AI/전체 SW 구성도.md",
     "★범정부 생성형 AI/연계.md",
     "★범정부 생성형 AI/관리자 시스템 - AI 기능_서비스 모듈 관리 기능.md",
