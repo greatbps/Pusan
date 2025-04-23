@@ -146,9 +146,21 @@
               "icon": "lucide-file",
               "title": "시스템 구성도"
             }
+          },
+          {
+            "id": "2b5fd3f6291c41bb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "7c92f984f5fb9670",
+  "active": "2b5fd3f6291c41bb",
   "lastOpenFiles": [
     "attatchment/Pasted image 20250423161845.png",
     "attatchment/Pasted image 20250423161625.png",
