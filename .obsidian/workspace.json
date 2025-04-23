@@ -151,12 +151,14 @@
             "id": "2b5fd3f6291c41bb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "★범정부 생성형 AI/시스템 구성도.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "시스템 구성도"
             }
           }
         ],
