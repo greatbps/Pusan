@@ -160,9 +160,23 @@
               "icon": "lucide-file",
               "title": "시스템 구성도"
             }
+          },
+          {
+            "id": "265e2800c69337da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -316,8 +330,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "2b5fd3f6291c41bb",
+  "active": "265e2800c69337da",
   "lastOpenFiles": [
+    "★범정부 생성형 AI/시스템 구성도.md",
+    "conflict-files-obsidian-git.md",
     "attatchment/Pasted image 20250423161845.png",
     "attatchment/Pasted image 20250423161625.png",
     "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
@@ -326,7 +342,6 @@
     "★범정부 생성형 AI/카탈로그.md",
     "★범정부 생성형 AI/정산 관리.md",
     "★범정부 생성형 AI/전체 SW 구성도.md",
-    "★범정부 생성형 AI/시스템 구성도.md",
     "attatchment/Pasted image 20250423161129.png",
     "★범정부 생성형 AI/사용자 관리 시스템.md",
     "attatchment/Pasted image 20250423124615.png",
@@ -336,11 +351,9 @@
     "attatchment/Pasted image 20250421154741.png",
     "attatchment/Pasted image 20250421125457.png",
     "★범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
-    "conflict-files-obsidian-git.md",
     "attatchment/Pasted image 20250418163738.png",
     "attatchment/Pasted image 20250418163108.png",
     "attatchment/Pasted image 20250418162126.png",
-    "attatchment/Pasted image 20250418162048.png",
     "★범정부 생성형 AI/성능 Per-005.md",
     "★범정부 생성형 AI/공통 대화형 프롬프트.md",
     "★범정부 생성형 AI/수정.md",
