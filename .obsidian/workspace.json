@@ -97,48 +97,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "기능 수행 지연에 대한 사전 경고"
-            }
-          },
-          {
-            "id": "e30c1d5e87b88193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/연계.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "연계"
-            }
-          },
-          {
-            "id": "757c01ecfb596b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/연계 0422.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "연계 0422"
-            }
-          },
-          {
-            "id": "7c92f984f5fb9670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "★범정부 생성형 AI/시스템 구성도.md",
                 "mode": "source",
                 "source": false
@@ -148,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -302,39 +260,38 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "7c92f984f5fb9670",
+  "active": "965c5f724f9cc4cd",
   "lastOpenFiles": [
+    "★범정부 생성형 AI/연계 0422.md",
+    "conflict-files-obsidian-git.md",
     "attatchment/Pasted image 20250423161845.png",
     "attatchment/Pasted image 20250423161625.png",
-    "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
-    "★범정부 생성형 AI/플로우 수정.md",
-    "★범정부 생성형 AI/플랫폼 관리 기능.md",
-    "★범정부 생성형 AI/카탈로그.md",
-    "★범정부 생성형 AI/정산 관리.md",
-    "★범정부 생성형 AI/전체 SW 구성도.md",
-    "★범정부 생성형 AI/시스템 구성도.md",
     "attatchment/Pasted image 20250423161129.png",
-    "★범정부 생성형 AI/사용자 관리 시스템.md",
     "attatchment/Pasted image 20250423124615.png",
+    "★범정부 생성형 AI/시스템 구성도.md",
     "attatchment/Pasted image 20250423124018.png",
-    "★범정부 생성형 AI/연계 0422.md",
     "★범정부 생성형 AI/연계.md",
+    "★범정부 생성형 AI/플로우 수정.md",
     "attatchment/Pasted image 20250421154741.png",
-    "attatchment/Pasted image 20250421125457.png",
+    "★범정부 생성형 AI/수정.md",
     "★범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
-    "conflict-files-obsidian-git.md",
+    "attatchment/Pasted image 20250421125457.png",
     "attatchment/Pasted image 20250418163738.png",
     "attatchment/Pasted image 20250418163108.png",
     "attatchment/Pasted image 20250418162126.png",
-    "attatchment/Pasted image 20250418162048.png",
     "★범정부 생성형 AI/성능 Per-005.md",
     "★범정부 생성형 AI/공통 대화형 프롬프트.md",
-    "★범정부 생성형 AI/수정.md",
     "★범정부 생성형 AI/관리자 시스템 구성도.md",
+    "★범정부 생성형 AI/전체 SW 구성도.md",
     "★범정부 생성형 AI/관리자 시스템 - AI 기능_서비스 모듈 관리 기능.md",
     "★범정부 생성형 AI/서비스 선택 기능.md",
     "★범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
+    "★범정부 생성형 AI/정산 관리.md",
     "★범정부 생성형 AI/사용자 권한관리.md",
+    "★범정부 생성형 AI/사용자 관리 시스템.md",
+    "★범정부 생성형 AI/플랫폼 관리 기능.md",
+    "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
+    "★범정부 생성형 AI/카탈로그.md",
     "attatchment/platform-management-proposal.md",
     "카탈로그.md",
     "★범정부 생성형 AI",
