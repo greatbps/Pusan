@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "프롬프트 엔지니어링"
             }
+          },
+          {
+            "id": "c91269ebf8eef769",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "5ffbf8e89388df86",
+  "active": "c91269ebf8eef769",
   "lastOpenFiles": [
     "★범정부 생성형 AI/동시 접속자 수.md",
     "★범정부 생성형 AI/프롬프트 엔지니어링.md",
