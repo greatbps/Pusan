@@ -106,6 +106,20 @@
             }
           },
           {
+            "id": "fda1a022da43b552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "965c5f724f9cc4cd",
             "type": "leaf",
             "state": {
@@ -120,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -274,10 +288,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "5ffbf8e89388df86",
+  "active": "fda1a022da43b552",
   "lastOpenFiles": [
-    "★범정부 생성형 AI/전체 SW 구성도.md",
+    "★범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
     "conflict-files-obsidian-git.md",
+    "★범정부 생성형 AI/전체 SW 구성도.md",
     "★범정부 생성형 AI/FP.md",
     "attatchment/Pasted image 20250430170949.png",
     "attatchment/Pasted image 20250430170842.png",
@@ -289,7 +304,6 @@
     "attatchment/Pasted image 20250428134523.png",
     "attatchment/Pasted image 20250428134428.png",
     "attatchment/Pasted image 20250428134212.png",
-    "★범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
     "★범정부 생성형 AI/정산 관리.md",
     "★범정부 생성형 AI/프롬프트 엔지니어링.md",
     "★범정부 생성형 AI/동시 접속자 수.md",
