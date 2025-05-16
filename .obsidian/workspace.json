@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "b682e7a2b617e549",
+  "active": "9d569c5ad6a5775d",
   "lastOpenFiles": [
     "무제.md",
     "0. 제안서/★경기도 교육청 AI/가) 생성형 AI를 활용한 서비스 공통.md",
