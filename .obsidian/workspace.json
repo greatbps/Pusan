@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f03c893ccfd87c",
+        "id": "9c89de906cc5aa2a",
         "type": "tabs",
         "children": [
           {
-            "id": "a564ac64d1b3b35c",
+            "id": "46e5639ce7c6dad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 제안서/★경기도 교육청 AI/다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자).md",
+                "file": "0. 제안서/★경기도 교육청 AI/가) 생성형 AI를 활용한 서비스 공통.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자)"
+              "title": "가) 생성형 AI를 활용한 서비스 공통"
             }
           }
         ]
@@ -175,36 +175,39 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "a564ac64d1b3b35c",
+  "active": "46e5639ce7c6dad4",
   "lastOpenFiles": [
     "attatchment/health_check_detail.mermaid",
     "attatchment",
-    "conflict-files-obsidian-git.md",
     "0. 제안서/★경기도 교육청 AI/다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자).md",
-    "★범정부 생성형 AI/관리자 시스템 구성도.md",
+    "무제.md",
+    "conflict-files-obsidian-git.md",
     "0. 제안서/★경기도 교육청 AI/가) 생성형 AI를 활용한 서비스 공통.md",
     "0. 제안서/★경기도 교육청 AI",
-    "★범정부 생성형 AI/tr_table.md",
-    "★범정부 생성형 AI/무제.md",
-    "★범정부 생성형 AI/fp-table.md",
-    "1. 제안요청서 작성/01-09.md",
-    "★범정부 생성형 AI/플로우 수정.md",
-    "★범정부 생성형 AI/플랫폼 관리 기능.md",
-    "★범정부 생성형 AI/프롬프트 엔지니어링.md",
-    "★범정부 생성형 AI/카탈로그.md",
-    "★범정부 생성형 AI/정산 관리.md",
-    "★범정부 생성형 AI/시스템 구성도.md",
-    "★범정부 생성형 AI/전체 SW 구성도.md",
-    "★범정부 생성형 AI/연계.md",
-    "★범정부 생성형 AI/연계 0422.md",
-    "★범정부 생성형 AI/성능 Per-005.md",
-    "★범정부 생성형 AI/수정.md",
-    "★범정부 생성형 AI/서비스 선택 기능.md",
-    "★범정부 생성형 AI/사용자 권한관리.md",
-    "★범정부 생성형 AI/사용자 관리 시스템.md",
-    "★범정부 생성형 AI/동시 접속자 수.md",
-    "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
-    "★범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
+    "0. 제안서",
+    "무제",
+    "범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통.md",
+    "범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통1.md",
+    "★범정부 생성형 AI/관리자 시스템 구성도.md",
+    "범정부 생성형 AI/플로우 수정.md",
+    "범정부 생성형 AI/플랫폼 관리 기능.md",
+    "범정부 생성형 AI/프롬프트 엔지니어링.md",
+    "범정부 생성형 AI/카탈로그.md",
+    "범정부 생성형 AI/정산 관리.md",
+    "범정부 생성형 AI/전체 SW 구성도.md",
+    "범정부 생성형 AI/연계.md",
+    "범정부 생성형 AI/연계 0422.md",
+    "범정부 생성형 AI/시스템 구성도.md",
+    "범정부 생성형 AI/수정.md",
+    "범정부 생성형 AI/성능 Per-005.md",
+    "범정부 생성형 AI/서비스 선택 기능.md",
+    "범정부 생성형 AI/사용자 권한관리.md",
+    "범정부 생성형 AI/사용자 관리 시스템.md",
+    "범정부 생성형 AI/무제.md",
+    "범정부 생성형 AI/마) 서비스 AI Agent 구축 방안.md",
+    "범정부 생성형 AI/동시 접속자 수.md",
+    "범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
+    "경기도 교육청 AI",
     "★범정부 생성형 AI",
     "attatchment/user-management-system-svg.svg",
     "attatchment/personalization-settings-svg.svg",
@@ -217,7 +220,6 @@
     "attatchment/Pasted image 20250428134212.png",
     "attatchment/Pasted image 20250425143114.png",
     "1. 제안요청서 작성",
-    "0. 제안서/1. 응용 아키텍처 설계",
-    "0. 제안서"
+    "0. 제안서/1. 응용 아키텍처 설계"
   ]
 }
