@@ -175,10 +175,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9d569c5ad6a5775d",
+  "active": "a564ac64d1b3b35c",
   "lastOpenFiles": [
-    "0. 제안서/★경기도 교육청 AI/다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자).md",
+    "attatchment/health_check_detail.mermaid",
+    "attatchment",
     "conflict-files-obsidian-git.md",
+    "0. 제안서/★경기도 교육청 AI/다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자).md",
     "★범정부 생성형 AI/관리자 시스템 구성도.md",
     "0. 제안서/★경기도 교육청 AI/가) 생성형 AI를 활용한 서비스 공통.md",
     "0. 제안서/★경기도 교육청 AI",
@@ -203,7 +205,6 @@
     "★범정부 생성형 AI/동시 접속자 수.md",
     "★범정부 생성형 AI/RAG 데이터 관리 기능.md",
     "★범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
-    "★범정부 생성형 AI/구독료 설계 및 지급 요건.md",
     "★범정부 생성형 AI",
     "attatchment/user-management-system-svg.svg",
     "attatchment/personalization-settings-svg.svg",
@@ -215,7 +216,6 @@
     "attatchment/Pasted image 20250428134428.png",
     "attatchment/Pasted image 20250428134212.png",
     "attatchment/Pasted image 20250425143114.png",
-    "attatchment",
     "1. 제안요청서 작성",
     "0. 제안서/1. 응용 아키텍처 설계",
     "0. 제안서"
