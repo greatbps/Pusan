@@ -132,9 +132,37 @@
               "icon": "lucide-file",
               "title": "전체 SW 구성도"
             }
+          },
+          {
+            "id": "e2e85046791c5252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "★범정부 생성형 AI/마) 서비스 AI Agent 구축 방안.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "마) 서비스 AI Agent 구축 방안"
+            }
+          },
+          {
+            "id": "06d38fab1fc5a09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "★범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "가) 생성형 AI를 활용한 서비스 공통"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -288,14 +316,16 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "37d1a63f9f3fc179",
+  "active": "06d38fab1fc5a09c",
   "lastOpenFiles": [
+    "★범정부 생성형 AI/마) 서비스 AI Agent 구축 방안.md",
+    "★범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통.md",
+    "★범정부 생성형 AI/전체 SW 구성도.md",
     "★경기도 교육청 AI",
     "★범정부 생성형 AI/무제.md",
     "★범정부 생성형 AI/tr_table.md",
     "★범정부 생성형 AI/fp-table.md",
     "conflict-files-obsidian-git.md",
-    "★범정부 생성형 AI/전체 SW 구성도.md",
     "★범정부 생성형 AI/FP.md",
     "attatchment/Pasted image 20250430170949.png",
     "attatchment/Pasted image 20250430170842.png",
@@ -325,7 +355,6 @@
     "★범정부 생성형 AI/공통 대화형 프롬프트.md",
     "★범정부 생성형 AI/서비스 선택 기능.md",
     "★범정부 생성형 AI/사용자 권한관리.md",
-    "★범정부 생성형 AI/사용자 관리 시스템.md",
     "★범정부 생성형 AI",
     "1. 제안요청서 작성"
   ]
