@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 제안서/공공시설예약, 결제.md",
+                "file": "범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공공시설예약, 결제"
+              "title": "가) 생성형 AI를 활용한 서비스 공통"
             }
           }
         ],
@@ -318,7 +318,9 @@
   },
   "active": "06d38fab1fc5a09c",
   "lastOpenFiles": [
+    "0. 제안서/1. 응용 아키텍처 설계/응용 아키텍처 설계.md",
     "범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통.md",
+    "0. 제안서/공공시설예약, 결제.md",
     "conflict-files-obsidian-git.md",
     "범정부 생성형 AI/마) 서비스 AI Agent 구축 방안.md",
     "범정부 생성형 AI/전체 SW 구성도.md",
@@ -353,8 +355,6 @@
     "범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
     "범정부 생성형 AI/성능 Per-005.md",
     "범정부 생성형 AI/공통 대화형 프롬프트.md",
-    "범정부 생성형 AI/서비스 선택 기능.md",
-    "범정부 생성형 AI/사용자 권한관리.md",
     "범정부 생성형 AI",
     "1. 제안요청서 작성"
   ]
