@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f4453ea20f77d83c",
+        "id": "f2f03c893ccfd87c",
         "type": "tabs",
         "children": [
           {
-            "id": "77111d6d24880ca6",
+            "id": "a564ac64d1b3b35c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "공통서비스 및 AI 행정지원서비스 사용량 예측"
-            }
-          },
-          {
-            "id": "164c12b7b75114d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/연계.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "연계"
-            }
-          },
-          {
-            "id": "eedda67b7ef32a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/전체 SW 구성도.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "전체 SW 구성도"
-            }
-          },
-          {
-            "id": "2f5e6cbdf3e98f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/관리자 시스템 구성도.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "관리자 시스템 구성도"
-            }
-          },
-          {
-            "id": "41284573dbdd5641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/공통 대화형 프롬프트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "공통 대화형 프롬프트"
-            }
-          },
-          {
-            "id": "0001b295844d0c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/성능 Per-005.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "성능 Per-005"
-            }
-          },
-          {
-            "id": "5ffbf8e89388df86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "공통서비스 및 AI 행정지원서비스 사용량 예측"
-            }
-          },
-          {
-            "id": "965c5f724f9cc4cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★범정부 생성형 AI/시스템 구성도.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "시스템 구성도"
-            }
-          },
-          {
-            "id": "53f8df640c7523fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "범정부 생성형 AI/전체 SW 구성도.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "전체 SW 구성도"
-            }
-          },
-          {
-            "id": "e2e85046791c5252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "범정부 생성형 AI/마) 서비스 AI Agent 구축 방안.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "마) 서비스 AI Agent 구축 방안"
-            }
-          },
-          {
-            "id": "06d38fab1fc5a09c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "가) 생성형 AI를 활용한 서비스 공통"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,44 +173,47 @@
   },
   "active": "9d569c5ad6a5775d",
   "lastOpenFiles": [
-    "범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통.md",
-    "conflict-files-obsidian-git.md",
-    "범정부 생성형 AI/마) 서비스 AI Agent 구축 방안.md",
+    "범정부 생성형 AI/플로우 수정.md",
+    "범정부 생성형 AI/플랫폼 관리 기능.md",
+    "범정부 생성형 AI/프롬프트 엔지니어링.md",
+    "범정부 생성형 AI/카탈로그.md",
+    "범정부 생성형 AI/정산 관리.md",
     "범정부 생성형 AI/전체 SW 구성도.md",
-    "★경기도 교육청 AI",
+    "범정부 생성형 AI/연계.md",
+    "범정부 생성형 AI/연계 0422.md",
+    "범정부 생성형 AI/시스템 구성도.md",
+    "범정부 생성형 AI/수정.md",
+    "범정부 생성형 AI/성능 Per-005.md",
+    "범정부 생성형 AI/서비스 선택 기능.md",
+    "범정부 생성형 AI/사용자 권한관리.md",
+    "범정부 생성형 AI/사용자 관리 시스템.md",
     "범정부 생성형 AI/무제.md",
-    "범정부 생성형 AI/tr_table.md",
-    "범정부 생성형 AI/fp-table.md",
-    "범정부 생성형 AI/FP.md",
-    "attatchment/Pasted image 20250430170949.png",
-    "attatchment/Pasted image 20250430170842.png",
+    "범정부 생성형 AI/마) 서비스 AI Agent 구축 방안.md",
+    "범정부 생성형 AI/동시 접속자 수.md",
+    "범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
+    "범정부 생성형 AI/구독료 설계 및 지급 요건.md",
     "범정부 생성형 AI/관리자 시스템 구성도.md",
     "범정부 생성형 AI/관리자 시스템 - AI 기능_서비스 모듈 관리 기능.md",
-    "범정부 생성형 AI/구독료 설계 및 지급 요건.md",
+    "범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
+    "범정부 생성형 AI/공통 대화형 프롬프트.md",
+    "범정부 생성형 AI/가) 생성형 AI를 활용한 서비스 공통.md",
+    "범정부 생성형 AI/tr_table.md",
+    "범정부 생성형 AI/FP.md",
+    "범정부 생성형 AI",
+    "★범정부 생성형 AI",
+    "attatchment/user-management-system-svg.svg",
+    "attatchment/personalization-settings-svg.svg",
+    "attatchment/Pasted image 20250430170949.png",
+    "attatchment/Pasted image 20250430170842.png",
     "attatchment/Pasted image 20250428134711.png",
     "attatchment/Pasted image 20250428134607.png",
     "attatchment/Pasted image 20250428134523.png",
     "attatchment/Pasted image 20250428134428.png",
     "attatchment/Pasted image 20250428134212.png",
-    "범정부 생성형 AI/공통서비스 및 AI 행정지원서비스 사용량 예측.md",
-    "범정부 생성형 AI/정산 관리.md",
-    "범정부 생성형 AI/프롬프트 엔지니어링.md",
-    "범정부 생성형 AI/동시 접속자 수.md",
     "attatchment/Pasted image 20250425143114.png",
-    "attatchment/Pasted image 20250424163151.png",
-    "범정부 생성형 AI/시스템 구성도.md",
-    "범정부 생성형 AI/RAG 데이터 관리 0423.md",
-    "범정부 생성형 AI/연계 0422.md",
-    "attatchment/Pasted image 20250423161845.png",
-    "범정부 생성형 AI/연계.md",
-    "범정부 생성형 AI/플로우 수정.md",
-    "범정부 생성형 AI/수정.md",
-    "범정부 생성형 AI/기능 수행 지연에 대한 사전 경고.md",
-    "범정부 생성형 AI/성능 Per-005.md",
-    "범정부 생성형 AI/공통 대화형 프롬프트.md",
-    "범정부 생성형 AI/서비스 선택 기능.md",
-    "범정부 생성형 AI/사용자 권한관리.md",
-    "범정부 생성형 AI",
-    "1. 제안요청서 작성"
+    "attatchment",
+    "1. 제안요청서 작성",
+    "0. 제안서/1. 응용 아키텍처 설계",
+    "0. 제안서"
   ]
 }
