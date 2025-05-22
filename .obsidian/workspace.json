@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "570f496231bee73b",
+        "id": "4c358ff8957864e3",
         "type": "tabs",
         "children": [
           {
-            "id": "b12844c30205bef6",
+            "id": "0e5c90a7aa7975a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 제안서/★경기도 교육청 AI/가) 교육행정업무 생성형 AI 대화형 서비스 기능 (사용자).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "가) 교육행정업무 생성형 AI 대화형 서비스 기능 (사용자)"
+            }
+          },
+          {
+            "id": "b922dced080cd59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 제안서/★경기도 교육청 AI/교육공동체_업무협업.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "교육공동체_업무협업"
+            }
+          },
+          {
+            "id": "e6ad00fc350a08d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 제안서/★경기도 교육청 AI/전체 기능구성도.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "전체 기능구성도"
+            }
+          },
+          {
+            "id": "58f369f3fd9388bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +63,8 @@
               "title": "교육공동체 아키텍처 구성도"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,18 +218,18 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "b12844c30205bef6",
+  "active": "58f369f3fd9388bd",
   "lastOpenFiles": [
-    "0. 제안서/★경기도 교육청 AI/전체 기능구성도.md",
-    "attatchment/Pasted image 20250522101801.png",
-    "0. 제안서/★경기도 교육청 AI/교육공동체 아키텍처 구성도.md",
-    "0. 제안서/★경기도 교육청 AI/교육공동체_업무협업.md",
     "conflict-files-obsidian-git.md",
+    "0. 제안서/★경기도 교육청 AI/교육공동체 아키텍처 구성도.md",
+    "attatchment/Pasted image 20250522101801.png",
+    "0. 제안서/★경기도 교육청 AI/전체 기능구성도.md",
+    "0. 제안서/★경기도 교육청 AI/교육공동체_업무협업.md",
     "attatchment/Pasted image 20250521151627.png",
     "attatchment/Pasted image 20250521151608.png",
     "attatchment/Pasted image 20250521151521.png",
-    "0. 제안서/★경기도 교육청 AI/가) 생성형 AI를 활용한 서비스 공통.md",
     "0. 제안서/★경기도 교육청 AI/가) 교육행정업무 생성형 AI 대화형 서비스 기능 (사용자).md",
+    "0. 제안서/★경기도 교육청 AI/가) 생성형 AI를 활용한 서비스 공통.md",
     "0. 제안서/★경기도 교육청 AI/Ⅲ.2.가.5) 교육공동체 생성형 AI 대화형 서비스 기능 (사용자).md",
     "0. 제안서/★경기도 교육청 AI/다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자).md",
     "attatchment/Pasted image 20250517055614.png",
