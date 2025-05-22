@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 제안서/★경기도 교육청 AI/전체 기능구성도.md",
+                "file": "0. 제안서/★경기도 교육청 AI/교육공동체 아키텍처 구성도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "전체 기능구성도"
+              "title": "교육공동체 아키텍처 구성도"
             }
           }
         ]
@@ -175,13 +175,13 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9d569c5ad6a5775d",
+  "active": "b12844c30205bef6",
   "lastOpenFiles": [
+    "0. 제안서/★경기도 교육청 AI/전체 기능구성도.md",
     "attatchment/Pasted image 20250522101801.png",
     "0. 제안서/★경기도 교육청 AI/교육공동체 아키텍처 구성도.md",
     "0. 제안서/★경기도 교육청 AI/교육공동체_업무협업.md",
     "conflict-files-obsidian-git.md",
-    "0. 제안서/★경기도 교육청 AI/전체 기능구성도.md",
     "attatchment/Pasted image 20250521151627.png",
     "attatchment/Pasted image 20250521151608.png",
     "attatchment/Pasted image 20250521151521.png",
@@ -219,7 +219,6 @@
     "attatchment/Pasted image 20250430170949.png",
     "attatchment/Pasted image 20250430170842.png",
     "attatchment/Pasted image 20250428134711.png",
-    "attatchment/Pasted image 20250428134607.png",
     "1. 제안요청서 작성",
     "0. 제안서/1. 응용 아키텍처 설계"
   ]
