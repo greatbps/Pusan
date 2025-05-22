@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 제안서/★경기도 교육청 AI/가) 교육행정업무 생성형 AI 대화형 서비스 기능 (사용자).md",
+                "file": "0. 제안서/★경기도 교육청 AI/전체 기능구성도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "가) 교육행정업무 생성형 AI 대화형 서비스 기능 (사용자)"
+              "title": "전체 기능구성도"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "b12844c30205bef6",
   "lastOpenFiles": [
+    "0. 제안서/★경기도 교육청 AI/가) 교육행정업무 생성형 AI 대화형 서비스 기능 (사용자).md",
     "0. 제안서/★경기도 교육청 AI/전체 기능구성도.md",
     "attatchment/Pasted image 20250522155427.png",
     "attatchment/Pasted image 20250522155354.png",
@@ -184,7 +185,6 @@
     "0. 제안서/★경기도 교육청 AI/교육공동체_업무협업.md",
     "0. 제안서/★경기도 교육청 AI/교육공동체 아키텍처 구성도.md",
     "0. 제안서/★경기도 교육청 AI/가) 생성형 AI를 활용한 서비스 공통.md",
-    "0. 제안서/★경기도 교육청 AI/가) 교육행정업무 생성형 AI 대화형 서비스 기능 (사용자).md",
     "conflict-files-obsidian-git.md",
     "attatchment/Pasted image 20250522114932.png",
     "attatchment/Pasted image 20250522101801.png",
