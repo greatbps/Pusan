@@ -11,3 +11,5 @@ NHIS(국민건강보험공단) 부정수급 감시체계의 **기술적 도입 
     
 
 이러한 기술적 도입은 **부정수급 발생 가능성을 사전에 차단하고, 신속·정확하게 감지하여 재정 누수를 최소화하는 데 중요한 역할**을 하고 있습니다.
+
+![[The Roles of the National Health Insurance Service in the Public Health Security.pdf]]
