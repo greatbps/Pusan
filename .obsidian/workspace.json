@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9c89de906cc5aa2a",
+        "id": "2a4862c796d1fdc5",
         "type": "tabs",
         "children": [
           {
-            "id": "331108796971dc75",
+            "id": "26ddd2306b177aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 제안서/★경기도 교육청 AI/다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자).md",
+                "file": "3.적용기술.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자)"
-            }
-          },
-          {
-            "id": "bac79a758c709655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "과금.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "과금"
-            }
-          },
-          {
-            "id": "487f0a2103b89bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 바레인 심평원/건강보험 심사평가.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "건강보험 심사평가"
-            }
-          },
-          {
-            "id": "9acf8cfc7bec4188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 바레인 심평원/건강보험 심사평가.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "건강보험 심사평가"
-            }
-          },
-          {
-            "id": "4f2c990899fadfe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 바레인 심평원/건강보험 심사평가.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "건강보험 심사평가"
-            }
-          },
-          {
-            "id": "129c939f50088a78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 바레인 심평원/건강보험 심사평가.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "건강보험 심사평가"
+              "title": "3.적용기술"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,14 +175,16 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "129c939f50088a78",
+  "active": "26ddd2306b177aad",
   "lastOpenFiles": [
-    "2. 바레인 심평원/심사평가원의 글로벌 수출 사례와 그 영향력.md",
+    "0. 제안서/★경기도 교육청 AI/다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자).md",
+    "과금.md",
     "2. 바레인 심평원/건강보험 심사평가.md",
+    "2. 바레인 심평원/심평원 시스템의 국제적 인정 사례와 그 의미를 분석.md",
+    "2. 바레인 심평원/심사평가원의 글로벌 수출 사례와 그 영향력.md",
     "2. 바레인 심평원/WHO와 세계은행이 제시하는 글로벌 건강보장 지표와 한국의 성과 차이를 분석.md",
     "2. 바레인 심평원/우리나라 건강보험 시스템이 국제기구에서 받은 평가 내용.md",
     "2. 바레인 심평원",
-    "과금.md",
     "0. 제안서/★경기도 교육청 AI/가) 교육행정업무 생성형 AI 대화형 서비스 기능 (사용자).md",
     "conflict-files-obsidian-git.md",
     "attatchment/Pasted image 20250609103606.png",
@@ -261,7 +192,6 @@
     "attatchment/Pasted image 20250609102959.png",
     "attatchment/Pasted image 20250609102933.png",
     "3.적용기술.md",
-    "0. 제안서/★경기도 교육청 AI/다) 생성형 AI를 활용한 대화형 서비스 기능 (관리자).md",
     "0. 제안서/★경기도 교육청 AI/교육공동체_업무협업.md",
     "0. 제안서/★경기도 교육청 AI/가) 생성형 AI를 활용한 서비스 공통.md",
     "0. 제안서/★경기도 교육청 AI/교육공동체 아키텍처 구성도.md",
@@ -288,7 +218,6 @@
     "범정부 생성형 AI/전체 SW 구성도.md",
     "범정부 생성형 AI/연계.md",
     "범정부 생성형 AI/연계 0422.md",
-    "범정부 생성형 AI/시스템 구성도.md",
     "경기도 교육청 AI",
     "★범정부 생성형 AI",
     "1. 제안요청서 작성",
